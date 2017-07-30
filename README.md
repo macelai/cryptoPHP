@@ -1,10 +1,12 @@
 # cryptoPHP
 Cryptography in PHP.
 
--Caesar Cipher
+<a href="https://github.com/Macelai/cryptoPHP/tree/master/ICPEduChallenge/Playfair">-Playfair Cipher</a>
 
--Key Pair Generation 
+<a href="https://github.com/Macelai/cryptoPHP/tree/master/ICPEduChallenge/CaesarCipher">-Caesar Cipher
 
--Sign and Verify
+<a href="https://github.com/Macelai/cryptoPHP/tree/master/ICPEduChallenge/KeyPairGeneration">-Key Pair Generation 
 
--Certificate Chain
+<a href="https://github.com/Macelai/cryptoPHP/tree/master/ICPEduChallenge/SignVerify">-Sign and Verify
+
+<a href="https://github.com/Macelai/cryptoPHP/tree/master/ICPEduChallenge/CertificateChain">-Certificate Chain
